@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 #### **Hello! I am a junior `web publisher` & `frontend developer`. 🌱** 
 
-#### **Web Deceloper in progress✍**
+#### **Web Deeloper in progress✍**
 
  ✏ I’m currently learning:![React](https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white)  
  📫 How to reach me: <a href="mailto:cjj4643@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)</a>
